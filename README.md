@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hola, me llamo Horacio.<br>🎓 Actualmente soy egresado del Instituto Tecnológico de Gustavo A. Madero | TECNM.<br>📚 Busco seguir aprendiendo mas tecnologías y lenguajes nuevos.<br>🤝 Estoy interesado en el Desarrollo Web y Creación de contenido digital.<br>🔭 Me gustaría desarrollarme en proyectos de desarrollos web, inteligencias Artificiales, ReactJS, Swift y ciberseguridad.<br>📧 Contáctame por mi email: pumaloco16@gmail.com<br>👀 Mira mi perfil de GitHub y contáctame para proyectos profesionales.<br>
+👋 Hola, me llamo Horacio.<br>🎓 Soy egresado del Instituto Tecnológico de Gustavo A. Madero | TECNM.<br>📚 Busco seguir aprendiendo mas tecnologías y lenguajes nuevos.<br>🤝 Estoy interesado en el Desarrollo Web y Creación de contenido digital.<br>🔭 Me gustaría desarrollarme en proyectos de desarrollos web, inteligencias Artificiales, ReactJS, Swift y ciberseguridad.<br>📧 Contáctame por mi email: pumaloco16@gmail.com<br>👀 Mira mi perfil de GitHub y contáctame para proyectos profesionales.<br>
 
 
 ## 🌐 Socials:
